@@ -1,0 +1,21 @@
+<html>
+<head>
+    <style>
+        img{
+            height: 300px;
+            width: 400px;
+        }
+    </style>
+    <title>HTML PROGRAM2</title>
+</head>
+<body>
+    <h1>Name:Hugh jackman</h1>
+    <h1>Academic details</h1>
+    <p>I am a student of University of Engineering and management and my overall cgpa is 9</p>
+    <hr>
+    <h2>Work experience</h2>
+    <p>I have done internship from in an organisation known as coincent.</p>
+    <hr>
+    <img src="logo.png" alt="">
+</body>
+</html>

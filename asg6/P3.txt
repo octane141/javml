@@ -1,0 +1,10 @@
+//Program 3
+class P3
+{
+public static void main(String args[])
+{
+try{
+t = 45/0;
+}
+}
+}

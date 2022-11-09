@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>HTML PROGRAM 4</title>
+    </head>
+    <body>
+        <p>My favourite book is " Fall of the Dawn " and " Blood of the dragons"</p>
+        <p>My favourite writer is "Allan Dawn" and "Christling Book"</p>
+        <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjem7e__-b6AhWuynMBHbXbC7UQFnoECBMQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAllan_Dwan&usg=AOvVaw0wMhcPYBbzHI2DwgA765I9">Know more about my favourite writers</a>
+        <script src="program6_onwards.js"></script>
+    </body>
+    
+</html>

@@ -1,0 +1,24 @@
+<html>
+    <script>
+var root1, root2;
+var a = prompt("Enter the first number: ");
+var b = prompt("Enter the second number: ");
+var c = prompt("Enter the third number: ");
+var discriminant = b * b - 4 * a * c;
+if (discriminant > 0) {
+     root1 = (-b + Math.sqrt(discriminant)) / (2 * a);
+     root2 = (-b - Math.sqrt(discriminant)) / (2 * a);
+     document.write(`The roots of quadratic equation are ${root1} and ${root2}`);
+ }
+ else if (discriminant == 0) {
+     root1 = root2 = -b / (2 * a);
+     document.write(`The roots of quadratic equation are ${root1} and ${root2}`);
+ }
+ else {
+     var realPart = (-b / (2 * a)).toFixed(2);
+     var imagPart = (Math.sqrt(-discriminant) / (2 * a)).toFixed(2);
+     document.write(`The roots of quadratic equation are ${realPart} + ${imagPart}i and ${realPart} - ${imagPart}i`);
+ }
+         
+         </script>
+</html>

@@ -1,0 +1,30 @@
+[10:18 AM, 10/18/2022] Ex Musician Ex Gamer The PP: <html>
+<head>
+    <title>HTML PROGRAM3</title>
+</head>
+<body>
+    <p>My favourite foods are Chicken Biryani and Ramen.</p>
+    <h4>Favourite soft drinks</h4>
+    <ul>
+        <li>Pepsi</li>
+        <li>Coke</li>
+        <li>Burger</li>
+    </ul>
+    <h4>Favourite Dessert items</h4>
+    <ol>
+        <li>Cake</li>
+        <li>Ice cream</li>
+        <li>Fidni</li>
+    </ol>
+    <h4>Favourite Main Course</h4>
+    <ul>
+        <ol style="padding-left: 0;border-bottom: 10px;">FISH</ol>
+        <li>Fish Tikka</li>
+        <li>Paneer Butter Masala</li>
+        <br>
+        <ol style="padding-left: 0;"">CHICKEN</ol>
+        <li>Chicken Tikka </li>
+        <li>Chicken Kasha</li>
+    </ul>
+</body>
+</html>

@@ -1,0 +1,7 @@
+<html>
+<script>
+    var a="HELLO";
+    var b=a.toLowerCase();
+    document.write("The String in Lower case is: "+b);
+</script>
+</html>

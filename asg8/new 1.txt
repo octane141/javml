@@ -1,0 +1,82 @@
+<html>
+<head>
+    <style>
+        table{
+            width: 100%;
+        }
+        td,th{
+            border: 1px solid black;
+        }
+    </style>
+    <title>HTML PROGRAM 1</title>
+</head>
+<body>
+    <input value="Enter your Name" type="text">
+    <br>
+    <input value="Enter your Nationality" type="text">
+    <br>
+    <input value="Enter your age" type="tel">
+    <br>
+    <input value="Enter phone number" type="tel">
+    <br>
+    <h2>Enter your vaccination status</h2>
+    <input type="radio" >
+    <label for="">1st Dose Only</label>
+    <br>
+    <input type="radio">
+    <label for="">Received 2nd Dose</label>
+    <br>
+    <input type="radio">
+    <label for="">Not Vaccinated</label>
+    <br>
+    <h2>Enter any allergies</h2>
+    <input type="checkbox">
+    <label for="">Food allergies</label>
+    <br>
+    <input type="checkbox">
+    <label for="">Dust allergies</label>
+    <br>
+    <input type="checkbox">
+    <label for="">Medicine allergies</label>
+    <br>
+    <select>
+        <option value="">B.Tech</option>
+        <option value=""> BCA</option>
+        <option value="">M. Tech</option>
+        <option value="">MCA</option>
+    </select>
+    <br>
+    <select>
+        <option value="">CSE</option>
+        <option value=""> ECE</option>
+        <option value="">ME</option>
+        <option value="">CIVIL</option>
+    </select>
+    <table>
+        <tr>
+          <th>Member Name</th>
+          <th>Relation </th>
+          <th>Age</th>
+          <th>Date of vaccination</th>
+        </tr>
+        <tr>
+          <td>Abc Xyz</td>
+          <td>Father</td>
+          <td>50</td>
+          <td>21/2/2022</td>
+        </tr>
+        <tr>
+            <td>Def Xyz</td>
+            <td>Mother</td>
+            <td>48</td>
+            <td>21/2/2022</td>
+        </tr>
+        <tr>
+            <td>Ghi Xyz</td>
+            <td>Brother</td>
+            <td>20</td>
+            <td>24/6/2022</td>
+        </tr>
+    </table>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<html>
+    <script>
+var f, s, t;
+var n = prompt("Enter the no. of terms: ");
+f = -1;
+s = 1;
+t = 0;
+document.write("Fibonacci Terms:\n")
+for(var i = 0; i < n; i++)
+{
+    t = f + s
+    document.write(t + "\n");
+    f = s
+    s = t
+}
+         
+         </script>
+</html>

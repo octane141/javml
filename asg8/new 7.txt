@@ -1,0 +1,10 @@
+<html>
+    <a href="https://www.google.com/">Link to Google</a>
+<script>
+    alert("HI! GOOD MORNING");
+    window.on("unload")=function()
+    {
+    alert("THANKS FOR VISITING OUR WEB PAGE");
+    }
+ </script>
+ </html>
